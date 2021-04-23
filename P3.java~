@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class P3
+{
+  public static void main(String[]args)
+  {
+    Scanner sc=new sc(System.in);
+    System.out.println("please enter a number");
+    int row=sc.nextInt();
+    for(rownum=1,rownum<=row,rownum++)
+    {
+      System.out.println(rownum);
+    }
+    
+  }
+}
